@@ -1,0 +1,64 @@
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.csproj.AssemblyReference.cache
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\Templates.baml
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\MainWindow.g.cs
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\App.g.cs
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023_Content.g.cs
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023_MarkupCompile.cache
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023_MarkupCompile.lref
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\bin\Debug\ProjetWpf2023.exe.config
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\bin\Debug\ProjetWpf2023.exe
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\bin\Debug\ProjetWpf2023.pdb
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\bin\Debug\EntityFramework.dll
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\bin\Debug\EntityFramework.xml
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\MainWindow.baml
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.g.resources
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.Properties.Resources.resources
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.csproj.GenerateResource.cache
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.csproj.CopyComplete
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.exe
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.pdb
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\App.baml
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\AjouterCommande.g.cs
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\AjouterCommande.baml
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\DataGridActionDialogue.g.cs
+C:\Users\Utente\source\repos\ProjetWpf2023\ProjetWpf2023\obj\Debug\DataGridActionDialogue.baml
+D:\OneDrive - Université Cheikh Anta DIOP de DAKAR\DotNetProject\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.csproj.AssemblyReference.cache
+D:\OneDrive - Université Cheikh Anta DIOP de DAKAR\DotNetProject\ProjetWpf2023\ProjetWpf2023\obj\Debug\Templates.baml
+D:\OneDrive - Université Cheikh Anta DIOP de DAKAR\DotNetProject\ProjetWpf2023\ProjetWpf2023\obj\Debug\AjouterCommande.g.cs
+D:\OneDrive - Université Cheikh Anta DIOP de DAKAR\DotNetProject\ProjetWpf2023\ProjetWpf2023\obj\Debug\DataGridActionDialogue.g.cs
+D:\OneDrive - Université Cheikh Anta DIOP de DAKAR\DotNetProject\ProjetWpf2023\ProjetWpf2023\obj\Debug\MainWindow.g.cs
+D:\OneDrive - Université Cheikh Anta DIOP de DAKAR\DotNetProject\ProjetWpf2023\ProjetWpf2023\obj\Debug\App.g.cs
+D:\OneDrive - Université Cheikh Anta DIOP de DAKAR\DotNetProject\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023_Content.g.cs
+D:\OneDrive - Université Cheikh Anta DIOP de DAKAR\DotNetProject\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023_MarkupCompile.cache
+D:\OneDrive - Université Cheikh Anta DIOP de DAKAR\DotNetProject\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023_MarkupCompile.lref
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.csproj.AssemblyReference.cache
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\Templates.baml
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\AjouterCommande.g.cs
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\DataGridActionDialogue.g.cs
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\MainWindow.g.cs
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\App.g.cs
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023_Content.g.cs
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023_MarkupCompile.cache
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023_MarkupCompile.lref
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\bin\Debug\ProjetWpf2023.exe.config
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\bin\Debug\ProjetWpf2023.exe
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\bin\Debug\ProjetWpf2023.pdb
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\bin\Debug\EntityFramework.dll
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\bin\Debug\EntityFramework.xml
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\App.baml
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\AjouterCommande.baml
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\DataGridActionDialogue.baml
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\MainWindow.baml
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.g.resources
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.Properties.Resources.resources
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.csproj.GenerateResource.cache
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.csproj.CoreCompileInputs.cache
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.csproj.CopyComplete
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.exe
+D:\ProjetDotNet2023\ProjetWpf2023\ProjetWpf2023\obj\Debug\ProjetWpf2023.pdb
